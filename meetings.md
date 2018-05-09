@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # REGIONAL MEETING 2019
 
 The 2019 meeting will be held at Creighton University in Omaha, Nebraska, March 29-30, 2019.
