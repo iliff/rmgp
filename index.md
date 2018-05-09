@@ -99,6 +99,7 @@ In addition to the recognition and honor of being a Regional Scholar, each schol
 Both AAR and SBL have regional student positions that address the needs and concerns of graduate students and promotes their professional development and participation in our regional organization:
 
 [AAR Graduate Student Committee](https://www.aarweb.org/node/108)
+
 [SBL Student Advisory Board](https://www.sbl-site.org/SBLcommittees_SAB.aspx)
 
 Student Representatives serve the regional and national organizations of AAR and SBL. As such, the region would like to offer their financial support:
