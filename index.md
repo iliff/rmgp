@@ -22,13 +22,14 @@ Our Region is Comprised of:
 
 President: [Lincoln Blumell](mailto:lincoln_blumell@byu.edu), Brigham Young University
 
-Vice President and Program Chair: [Ronald A. Simkins](mailto:), Creighton University
+Vice President and Program Chair: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
 
-AAR Coordinator: Elizabeth Coody, Iliff School of Theology
+AAR Coordinator: [Elizabeth Coody](mailto:elizabeth.coody@gmail.com), Iliff School of Theology
 
-SBL Coordinator: Thomas Wayment, Brigham Young University
+SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
 
 AAR Student Director: Meghan Johnston Aelabouni, University of Denver and Iliff School of Theology
+
 SBL Student Director: Aaron Lockhart, University of Denver and Iliff School of Theology
 
 ## Past Presidents
