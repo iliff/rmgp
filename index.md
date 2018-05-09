@@ -1,6 +1,5 @@
-# Rocky Mountain-Great Plains Region of the Society of Biblical Literature and American Academy of Religion  
 
-Maybe a picture here?
+PICTURE
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
@@ -11,13 +10,13 @@ MAP HERE
 
 Our Region is Comprised of:
 
-Colorado
-Kansas – ZIP codes: 67400-67999
-Montana – ZIP codes: 59000-59399 and 59500-59599
-Nebraska
-New Mexico
-Utah
-Wyoming
+* Colorado
+* Kansas – ZIP codes: 67400-67999
+* Montana – ZIP codes: 59000-59399 and 59500-59599
+* Nebraska
+* New Mexico
+* Utah
+* Wyoming
 
 ## Regional Officers
 
