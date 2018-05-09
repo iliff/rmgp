@@ -1,11 +1,11 @@
-####Rocky Mountain-Great Plains Region of the Society of Biblical Literature and American Academy of Religion  
+# Rocky Mountain-Great Plains Region of the Society of Biblical Literature and American Academy of Religion  
 
 Maybe a picture here?
 
-#American Academy of Religion, [National Website] (http://www.aarweb.org)
-#Society of Biblical Literature, [National Website] (http://www.sbl-site.org)
+### American Academy of Religion, [National Website](http://www.aarweb.org)
+### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
 
-##Regional Meeting 2019
+## Regional Meeting 2019
 
 The 2019 meeting will be held at Creighton University in Omaha, Nebraska, March 29-30, 2019.
 
@@ -15,5 +15,5 @@ Hashtag note: If you use #rmgp19 when you talk about this conference on social m
 
 We're also looking forward to our 2020 meeting at University of Colorado Colorado Springs (UCCS).
 
-This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me] (mailto:ecoody@iliff.edu).
+This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me](mailto:ecoody@iliff.edu).
 
