@@ -1,12 +1,12 @@
 
-![left-aligned-image](rmgp_featured.png){: .align-left}
+![center-aligned-image](rmgp_featured.png)
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
 
 ## Participating Area
 
-MAP HERE
+![left-aligned-image](rmgp_map.gif)
 
 Our Region is Comprised of:
 
