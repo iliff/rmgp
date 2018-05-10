@@ -16,6 +16,6 @@ We're also looking forward to our **2020** meeting at [University of Colorado Co
 
 [2018 Meeting Information](https://religion.byu.edu/rmgp)
 
-[2017 Meeting Information]()
+[2017 Meeting Information](https://iliff.github.io/rmgp/meeting_2017.html)
 
-[2016 Meeting Information]()
+[2016 Meeting Information](https://iliff.github.io/rmgp/meeting_2016.html)
