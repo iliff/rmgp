@@ -109,7 +109,7 @@ Student Representatives are required to pursue funding from the university with 
 Student Representatives may submit costs for hotel rooms, airfare, and food. The region requires that reimbursements for hotel rooms will be made at the AAR/SBL rate that is published by the national organizations for the annual meetings, that airfare must be coach/economy, and food will not be reimbursed higher than the annual federal per diem rates. The same requirements will apply to the regional meeting. Financial support is capped at $500 for each student representative for an academic year (one national and one regional meeting).
 To receive financial support, student representatives must submit (1) itemized receipts for all costs for which they are requesting reimbursement and (2) a list of funding resources for which they have applied at their home universities (or a statement that no such funding is available) within 60 days of each meeting.
 Student Representatives are expected to make every reasonable effort to be present to report on their activities at the Regional Business Meeting (scheduled each Spring at the regional meeting). 
-Please contact the [current president]("{{ "/" | absolute_url }}#regional-officers") for more information.
+Please contact the [current president](https://iliff.github.io/rmgp/#regional-officers) for more information.
 
 This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me](mailto:elizabeth.coody@gmail.com).
         
