@@ -1,5 +1,5 @@
 
-PICTURE
+![left-aligned-image](rmgp_featured.png){: .align-left}
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
