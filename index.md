@@ -113,3 +113,4 @@ Please contact the [current president](https://iliff.github.io/rmgp/#regional-of
 
 This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me](mailto:elizabeth.coody@gmail.com).
         
+![center-aligned-image](rmgp_featured_footer.png)
