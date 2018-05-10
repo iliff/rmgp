@@ -10,7 +10,7 @@ A call for papers will be forthcoming.
 
 Hashtag note: If you use **#rmgp19** when you talk about this conference on social media, it will help us find each other. 
 
-We're also looking forward to our **2020** meeting at [University of Colorado Colorado Springs] (UCCS), dates to be announced.
+We're also looking forward to our **2020** meeting at [University of Colorado Colorado Springs](https://www.uccs.edu) (UCCS), dates to be announced.
 
 ## Past Meetings: 
 
