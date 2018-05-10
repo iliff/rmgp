@@ -14,6 +14,8 @@ We're also looking forward to our **2020** meeting at [University of Colorado Co
 
 ## Past Meetings: 
 
-[2018 MEETING INFORMATION](https://religion.byu.edu/rmgp)
-[2017 MEETING INFORMATION]()
-[2016 MEETING INFORMATION]()
+[2018 Meeting Information](https://religion.byu.edu/rmgp)
+
+[2017 Meeting Information]()
+
+[2016 Meeting Information]()
