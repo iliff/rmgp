@@ -6,7 +6,7 @@ layout: default
 
 The **2019** meeting will be held at [Creighton University](https://www.creighton.edu) in Omaha, Nebraska, March 29-30, 2019.
 
-[Click here for the 2019 Call for Papers (CFP)](https://iliff.github.io/rmgp/meeting_2019_call.pdf) The deadline for submissions is Friday, October 26, 2018. Details are in the CFP document.
+[Click here for the 2019 Call for Papers (CFP)](https://iliff.github.io/rmgp/meeting_2019_call.pdf) The deadline for submissions has been extended to Friday, November 9th. Details are in the CFP document.
 
 Hashtag note: If you use **#rmgp19** when you talk about this conference on social media, it will help us find each other. 
 
