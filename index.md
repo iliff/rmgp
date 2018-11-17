@@ -121,7 +121,7 @@ Sunday - 1:00 PM-3:00 PM
 
 Convention Center-604 (Street Level)
 
-# Digital Humanities: Virtual Reality, Natural Language Processing, Machine Learning, and Artificial Intelligence
+#### Digital Humanities: Virtual Reality, Natural Language Processing, Machine Learning, and Artificial Intelligence
 
 [Virtual Scriptures](http://www.virtualscriptures.org)
 
