@@ -113,7 +113,7 @@ Please contact the [current president](https://iliff.github.io/rmgp/#regional-of
 
 ## Regions Forum 2018
 
-These links are from the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver Colorado where Regional Meeting Proceedings: Regional coordinators, officers, and representatives sharing and discussing regional meeting innovations.
+These links are from the ones Elizabeth Coody will reference at the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver Colorado where Regional Meeting Proceedings: Regional coordinators, officers, and representatives sharing and discussing regional meeting innovations.
 
 Katherine Downey, Dallas, TX, Presiding
 
@@ -121,11 +121,13 @@ Sunday - 1:00 PM-3:00 PM
 
 Convention Center-604 (Street Level)
 
+# Digital Humanities: Virtual Reality, Natural Language Processing, Machine Learning, and Artificial Intelligence
+
 [Virtual Scriptures](http://www.virtualscriptures.org)
 
 [A Century of Black Mormoms](http://www.centuryofblackmormons.org)
 
-[Digital Humanities](https://www.iliff.edu/experimental-humanities/)
+[Experimental Humanities](https://www.iliff.edu/experimental-humanities/)
 
 This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me](mailto:elizabeth.coody@gmail.com).
         
