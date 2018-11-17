@@ -24,7 +24,7 @@ President: [Lincoln Blumell](mailto:lincoln_blumell@byu.edu), Brigham Young Univ
 
 Vice President and Program Chair: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
 
-AAR Coordinator: [Elizabeth Coody](mailto:elizabeth.coody@gmail.com), Iliff School of Theology
+AAR Coordinator: [Elizabeth Coody](mailto:coodye@morningside.edu), Morningside College
 
 SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
 
@@ -110,6 +110,22 @@ Student Representatives may submit costs for hotel rooms, airfare, and food. The
 To receive financial support, student representatives must submit (1) itemized receipts for all costs for which they are requesting reimbursement and (2) a list of funding resources for which they have applied at their home universities (or a statement that no such funding is available) within 60 days of each meeting.
 Student Representatives are expected to make every reasonable effort to be present to report on their activities at the Regional Business Meeting (scheduled each Spring at the regional meeting). 
 Please contact the [current president](https://iliff.github.io/rmgp/#regional-officers) for more information.
+
+## Regions Forum 2018
+
+These links are from the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver Colorado where Regional Meeting Proceedings: Regional coordinators, officers, and representatives sharing and discussing regional meeting innovations.
+
+Katherine Downey, Dallas, TX, Presiding
+
+Sunday - 1:00 PM-3:00 PM
+
+Convention Center-604 (Street Level)
+
+[Virtual Scriptures](http://www.virtualscriptures.org)
+
+[A Century of Black Mormoms](http://www.centuryofblackmormons.org)
+
+[Digital Humanities](https://www.iliff.edu/experimental-humanities/)
 
 This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me](mailto:elizabeth.coody@gmail.com).
         
