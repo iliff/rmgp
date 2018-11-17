@@ -113,7 +113,7 @@ Please contact the [current president](https://iliff.github.io/rmgp/#regional-of
 
 ## Regions Forum 2018
 
-These links are from the ones Elizabeth Coody will reference at the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver Colorado where Regional Meeting Proceedings: Regional coordinators, officers, and representatives sharing and discussing regional meeting innovations.
+These links the ones Elizabeth Coody (will or has) reference(d) at the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver, Colorado where regional coordinators, officers, and representatives are sharing and discussing regional meeting innovations.
 
 Katherine Downey, Dallas, TX, Presiding
 
