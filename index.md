@@ -125,7 +125,7 @@ Convention Center-604 (Street Level)
 
 [Virtual Scriptures](http://www.virtualscriptures.org)
 
-[A Century of Black Mormoms](http://www.centuryofblackmormons.org)
+[A Century of Black Mormons](http://www.centuryofblackmormons.org)
 
 [Experimental Humanities](https://www.iliff.edu/experimental-humanities/)
 
