@@ -1,6 +1,8 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
+# [Find registration and hotel information for the 2019 regional meeting here.](http://www.rmgp.org/meetings)
+
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
 
