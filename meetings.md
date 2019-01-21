@@ -13,6 +13,8 @@ Please note that the hotel is the **Fairfield Inn & Suites Omaha Downtown** for 
 
 To get the group rate, the hotel must be booked by **March 7, 2019.**
 
+[Click here for the 2019 Program (Draft)](https://iliff.github.io/rmgp/meeting_2019_program.pdf) 
+
 [Click here for the 2019 Call for Papers (CFP)](https://iliff.github.io/rmgp/meeting_2019_call.pdf) The deadline for submissions was Friday, November 9th.
 
 Hashtag note: If you use **#rmgp19** when you talk about this conference on social media, it will help us find each other. 
