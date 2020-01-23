@@ -4,6 +4,8 @@ layout: default
 
 # Regional Meeting
 
+**THIS PAGE INCOMPLETE. CHECK BACK SOON FOR PROGRAM AND FULL DETAILS**
+
 The **2020** meeting will be held at the [University of Colorado Colorado Springs](https://www.creighton.edu), March 27-28, 2020.
 
 [Registration for Regional Meeting](https://) (Link not open for registration.)
