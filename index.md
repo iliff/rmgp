@@ -22,11 +22,11 @@ Our Region is Comprised of:
 
 ## Regional Officers
 
-President: [Lincoln Blumell](mailto:lincoln_blumell@byu.edu), Brigham Young University
+President: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
 
-Vice President and Program Chair: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
+Vice President and Program Chair: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
-AAR Coordinator: [Elizabeth Coody](mailto:coodye@morningside.edu), Morningside College
+AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
 SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
 
@@ -35,6 +35,8 @@ AAR Student Director: Meghan Johnston Aelabouni, University of Denver and Iliff 
 SBL Student Director: Aaron Lockhart, University of Denver and Iliff School of Theology
 
 ## Past Presidents
+
+Lincoln Blumell, Brigham Young University (2018-2019)
 
 Elias Sacks, University of Colorado Boulder (2017-2018)
 
