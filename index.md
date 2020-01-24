@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# [Find information about the 2019 regional meeting here.](http://www.rmgp.org/meetings)
+# [Find information about the 2020 regional meeting here.](http://www.rmgp.org/meetings)
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
