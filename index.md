@@ -56,29 +56,29 @@ Ronald A. Simkins, Creighton University (2010-2011)
 
 Randolph F. Lumpp, Regis University (2009-2010)
 
-Richard Hess and Hélène Dallaire, Denver Seminary (2008-09)
+Richard Hess and Hélène Dallaire, Denver Seminary (2008-2009)
 
-Nicolae Roddy, Creighton University (2007-08)
+Nicolae Roddy, Creighton University (2007-2008)
 
-David L. Weddle, The Colorado College (2006-07)
+David L. Weddle, The Colorado College (2006-2007)
 
-Carl A. Raschke, Denver University (2005-06)
+Carl A. Raschke, Denver University (2005-2006)
 
-Thomas A. Wayment, Brigham Young University (2004-05)
+Thomas A. Wayment, Brigham Young University (2004-2005)
 
-Lynn Ross Bryant, University of Colorado, Boulder (2003-04)
+Lynn Ross Bryant, University of Colorado, Boulder (2003-2004)
 
-John O'Keefe, Creighton University (2002-03)
+John O'Keefe, Creighton University (2002-2003)
 
-Mark George, Iliff School of Theology (2001-02)
+Mark George, Iliff School of Theology (2001-2002)
 
-Randolph F. Lumpp, Regis University (2000-01)
+Randolph F. Lumpp, Regis University (2000-2001)
 
 Tazim Kassam, Colorado College (1999-2000)
 
-Ronald A. Simkins, Creighton University (1998-99)
+Ronald A. Simkins, Creighton University (1998-1999)
 
-Harris Lenowitz, University of Utah (1997-98)
+Harris Lenowitz, University of Utah (1997-1998)
 
 ## Regional Scholars Program
 
@@ -133,6 +133,6 @@ Convention Center-604 (Street Level)
 
 [Experimental Humanities](https://www.iliff.edu/experimental-humanities/)
 
-This rmgp.org website was created and is maintained by Elizabeth Coody, AAR Regional Coordinator. If you have questions, additions or corrections to the website, please [contact me](mailto:elizabeth.coody@gmail.com).
+This rmgp.org website was created by Elizabeth Coody (2016-19 AAR Regional Coordinator for the RMGP) and is maintained by Zachary B. Smith, AAR Regional Coordinator for the RMGP Region. If you have questions, additions, or corrections to the website, please [contact me](mailto:zacharybsmith@creighton.edu).
         
 ![center-aligned-image](rmgp_featured_footer.png)
