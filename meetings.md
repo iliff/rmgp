@@ -15,9 +15,7 @@ Please note that the hotel is the **Hyatt Place Colorado Springs/Garden of the G
 
 To get the group rate, the hotel must be booked by **DATE**
 
-[Click here for the 2019 Program (Final)](https://iliff.github.io/rmgp/meeting_2019_program_final.pdf) 
-
-[Click here for the 2019 Call for Papers (CFP)](https://iliff.github.io/rmgp/meeting_2019_call.pdf) The deadline for submissions was Friday, November 9th.
+[Click here for the 2020 Program](https://iliff.github.io/rmgp/meeting_2020_program.pdf) 
 
 Hashtag note: If you use **#rmgp20** when you talk about this conference on social media, it will help us find each other. 
 
