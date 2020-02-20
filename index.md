@@ -8,7 +8,7 @@
 
 ## Participating Area
 
-![left-aligned-image](rmgp_map.gif)
+![left-aligned-image](region-rg.gif)
 
 Our Region is Comprised of:
 
