@@ -10,15 +10,7 @@
 
 ![left-aligned-image](region-rg.gif)
 
-Our Region is Comprised of:
-
-* Colorado
-* Kansas – ZIP codes: 67400-67999
-* Montana – ZIP codes: 59000-59399 and 59500-59599
-* Nebraska
-* New Mexico
-* Utah
-* Wyoming
+Our Region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansas (67400-67999), and eastern Montana (59000-59399, 59500-59599).
 
 ## Regional Officers
 
