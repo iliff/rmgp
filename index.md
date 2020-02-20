@@ -10,7 +10,7 @@
 
 ![left-aligned-image](region-rg.gif)
 
-Our Region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansas (67400-67999), and eastern Montana (59000-59399, 59500-59599).
+Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansas (67400-67999), and eastern Montana (59000-59399, 59500-59599).
 
 ## Regional Officers
 
