@@ -15,61 +15,37 @@ Our Region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 ## Regional Officers
 
 President: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
-
 Vice President and Program Chair: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
 AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
-
 SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
 
 AAR Student Director: Meghan Johnston Aelabouni, University of Denver and Iliff School of Theology
-
 SBL Student Director: Aaron Lockhart, University of Denver and Iliff School of Theology
 
 ## Past Presidents
 
 Lincoln Blumell, Brigham Young University (2018-2019)
-
 Elias Sacks, University of Colorado Boulder (2017-2018)
-
 Pamela Eisenbaum, Iliff School of Theology (2016-2017)
-
 Ronald A. Simkins, Creighton University (2015-2016)
-
 Andrea Stanton & Gregory Robbins, University of Denver (2014-2015)
-
-RIchard S. Hess & Sung Wook Chung, Denver Seminary (2013-2014)
-
+Richard S. Hess & Sung Wook Chung, Denver Seminary (2013-2014)
 Dan Belnap, Brigham Young University (2012-2013)
-
 Jacob Kinnard, Iliff School of Theology (2011-2012)
-
 Ronald A. Simkins, Creighton University (2010-2011)
-
 Randolph F. Lumpp, Regis University (2009-2010)
-
 Richard Hess and Hélène Dallaire, Denver Seminary (2008-2009)
-
 Nicolae Roddy, Creighton University (2007-2008)
-
 David L. Weddle, The Colorado College (2006-2007)
-
 Carl A. Raschke, Denver University (2005-2006)
-
 Thomas A. Wayment, Brigham Young University (2004-2005)
-
 Lynn Ross Bryant, University of Colorado, Boulder (2003-2004)
-
 John O'Keefe, Creighton University (2002-2003)
-
 Mark George, Iliff School of Theology (2001-2002)
-
 Randolph F. Lumpp, Regis University (2000-2001)
-
 Tazim Kassam, Colorado College (1999-2000)
-
 Ronald A. Simkins, Creighton University (1998-1999)
-
 Harris Lenowitz, University of Utah (1997-1998)
 
 ## Regional Scholars Program
@@ -112,9 +88,7 @@ Please contact the [current president](https://iliff.github.io/rmgp/#regional-of
 These links are the ones Elizabeth Coody referenced at the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver, Colorado where regional coordinators, officers, and representatives shared and discussed regional meeting innovations.
 
 Katherine Downey, Dallas, TX, Presiding
-
 Sunday, November 18, 2018 - 1:00 PM-3:00 PM
-
 Convention Center-604 (Street Level)
 
 #### Digital Humanities: Virtual Reality, Natural Language Processing, Machine Learning, and Artificial Intelligence
