@@ -15,12 +15,15 @@ Our Region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 ## Regional Officers
 
 President: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
+
 Vice President and Program Chair: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
 AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
+
 SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
 
 AAR Student Director: Meghan Johnston Aelabouni, University of Denver and Iliff School of Theology
+
 SBL Student Director: Aaron Lockhart, University of Denver and Iliff School of Theology
 
 ## Past Presidents
