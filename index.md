@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# [Find information about the 2020 regional meeting here.](http://www.rmgp.org/meetings)
+# [THE 2020 REGIONAL MEETING HAS BEEN CANCELED DUE TO PUBLIC HEALTH CONCERNS SURROUNDING THE CORONAVIRUS.](http://www.rmgp.org/meetings)
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
