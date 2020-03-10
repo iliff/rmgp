@@ -2,16 +2,11 @@
 layout: default
 ---
 
-# Regional Meeting
+# Regional Meeting - CANCELED FOR 2020
 
-**REGISTRATION IS OPEN!**
+**THE 2020 REGIONAL MEETING HAS BEEN CANCELED OVER PUBLIC HEALTH CONCERNS OVER THE CORONAVIRUS**
 
-The **2020** meeting will be held at the [University of Colorado Colorado Springs](https://www.uccs.edu/), March 27-28, 2020.
-
-**[Registration for Regional Meeting](http://www.cvent.com/d/cnq0ts)**
-
-[Hotel Reservation for Regional Meeting](https://www.hyatt.com/shop/coszc?location=Hyatt%20Place%20Colorado%20Springs%2FGarden%20of%20the%20Gods&checkinDate=2020-03-26&checkoutDate=2020-03-28&rooms=1&adults=1&kids=0&corp_id=g-aars)
-Please note that the hotel is the **Hyatt Place Colorado Springs/Garden of the Gods** for $104.00 per night (complimentary breakfast)
+The **2020** meeting was to be held at the [University of Colorado Colorado Springs](https://www.uccs.edu/), March 27-28, 2020. UCCS will rehost the meeting in **2021**.
 
 [Click here for the 2020 Program](https://iliff.github.io/rmgp/meeting_2020_program.pdf) 
 
