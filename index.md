@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# [THE 2020 REGIONAL MEETING HAS BEEN CANCELED DUE TO PUBLIC HEALTH CONCERNS SURROUNDING THE CORONAVIRUS.](http://www.rmgp.org/meetings)
+# [CALL FOR PROPOSALS now open for the 2021 virtual regional conference.](http://www.rmgp.org/meetings)
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
@@ -22,9 +22,9 @@ AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creight
 
 SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
 
-AAR Student Director: Meghan Johnston Aelabouni, University of Denver and Iliff School of Theology
+AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
 
-SBL Student Director: Aaron Lockhart, University of Denver and Iliff School of Theology
+SBL Student Director: Vacant
 
 ## Past Presidents
 
