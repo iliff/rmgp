@@ -6,7 +6,7 @@ layout: default
 
 **The [University of Colorado Colorado Springs](https://www.uccs.edu/) will host the regional meeting virtually March 19-26, 2021.**
 
-[Click here for the calls for papers and proposals for the 2021 meeting, due January 4, 2021.](https://iliff.github.io/rmgp/meeting_2020_program.pdf) 
+[Click here for the calls for papers and proposals for the 2021 meeting, due January 4, 2021.](https://github.com/iliff/rmgp/Call for Papers-2021.docx) 
 
 Hashtag note: If you use **#rmgp21** when you talk about this conference on social media, it will help us find each other. 
 
