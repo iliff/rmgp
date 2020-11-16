@@ -4,7 +4,7 @@ layout: default
 
 # Regional Meeting - CANCELED FOR 2020
 
-**THE 2020 REGIONAL MEETING HAS BEEN CANCELED OVER PUBLIC HEALTH CONCERNS OVER THE CORONAVIRUS**
+**THE 2020 REGIONAL MEETING WAS CANCELED OVER PUBLIC HEALTH CONCERNS OVER THE CORONAVIRUS**
 
 The **2020** meeting was to be held at the [University of Colorado Colorado Springs](https://www.uccs.edu/), March 27-28, 2020. UCCS will rehost the meeting in **2021**.
 
