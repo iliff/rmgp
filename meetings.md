@@ -8,7 +8,7 @@ layout: default
 
 **The meeting is free and open to all,** but [you must register to participate.](https://www.cvent.com/d/kjq0q3) All registrants will be emailed a link to the conference website on the morning of the conference. That website will host the Zoom links to all of the sessions.
 
-[The calls for papers and proposals is closed.](https://iliff.github.io/rmgp/CfP-2021.docx) 
+[The calls for papers and proposals are closed.](https://iliff.github.io/rmgp/CfP-2021.docx) 
 
 Hashtag note: Please use **#rmgp21** when you talk about this conference on social media. 
 
