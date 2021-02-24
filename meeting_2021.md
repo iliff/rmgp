@@ -12,7 +12,7 @@ Hashtag note: Please use **#rmgp21** when you talk about this conference on soci
 
 ## Past Meetings: 
 
-[2020 Canceled Meeting](https://iliff.github.io/rmgp/meeting_2020.html)
+[2020 Canceled Meeting Information](https://iliff.github.io/rmgp/meeting_2020.html)
 
 [2019 Meeting Information](https://iliff.github.io/rmgp/meeting_2019.html)
 
