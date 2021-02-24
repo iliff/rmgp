@@ -1,7 +1,8 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# [The call for papers and proposals](https://iliff.github.io/rmgp/CfP-2021.docx) is now open for the [2021 virtual regional conference.](http://www.rmgp.org/meetings)
+# [The 2021 virtual meeting](https://iliff.github.io/rmgp/meeting_2021) will be March 20, 2021, hosted by USCS.
+The meeting is free and open to all, but participants must register to attend.
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
