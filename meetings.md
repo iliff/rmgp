@@ -2,19 +2,17 @@
 layout: default
 ---
 
-# Regional Meeting 2021 (Virtual)
+# Regional Meeting 2022
 
-## [Meeting 2021 Information](https://iliff.github.io/rmgp/meeting_2021.html)
+## [Meeting 2022 Information](https://iliff.github.io/rmgp/meeting_2022.html)
 
-**The [University of Colorado Colorado Springs](https://www.uccs.edu/) will host the regional meeting virtually March 20, 2021.**
+**The University of Denver will host the regional meeting in 2022. Dates, arrangements, and call for papers are forthcoming.**
 
-**The meeting is free and open to all,** but [you must register to participate.](https://www.cvent.com/d/kjq0q3) All registrants will be emailed a link to the conference website on the morning of the conference. That website will host the Zoom links to all of the sessions.
-
-[The calls for papers and proposals are closed.](https://iliff.github.io/rmgp/CfP-2021.docx) 
-
-Hashtag note: Please use **#rmgp21** when you talk about this conference on social media. 
+Hashtag note: Please use **#rmgp22** when you talk about this conference on social media. 
 
 ## Past Meetings: 
+
+[2021 Virtual Meeting Information](https://iliff.github.io/rmgp/meeting_2021.html)
 
 [2020 Canceled Meeting Information](https://iliff.github.io/rmgp/meeting_2020.html)
 
