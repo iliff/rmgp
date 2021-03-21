@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# [The 2021 virtual meeting](https://iliff.github.io/rmgp/meeting_2021) will be March 20, 2021, hosted by UCCS. The meeting is free and open to all, but participants must register to attend.
+# [The 2021 virtual meeting](https://iliff.github.io/rmgp/meeting_2021) was held March 20, 2021, hosted by UCCS. We look forward to returning to an in-person meeting in 2022, hosted by the University of Denver.
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
@@ -14,19 +14,21 @@ Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 
 ## Regional Officers
 
-President: [Ronald A. Simkins](mailto:rsmkns@gmail.com), Creighton University
+President: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
-Vice President and Program Chair: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
+Vice President and Program Chair: [Andrea Stanton](mailto:andrea.stanton@du.edu), University of Denver
 
 AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
-SBL Coordinator: [Thomas Wayment](mailto:thomas_wayment@byu.edu), Brigham Young University
+SBL Coordinator: [Amy L. Balogh](mailto:abalogh@regis.edu), Regis University
 
 AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
 
 SBL Student Director: Vacant
 
 ## Past Presidents
+
+Ronald A. Simkins, Creighton University (2019-2020, 2020-2021)
 
 Lincoln Blumell, Brigham Young University (2018-2019)
 
