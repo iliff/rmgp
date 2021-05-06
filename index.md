@@ -16,7 +16,7 @@ Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 
 President: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
-Co-Vice Presidents and Program Chairs: [Andrea Stanton](mailto:andrea.stanton@du.edu) and [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
+Co-Vice Presidents and Program Chairs: [Andrea Stanton](mailto:andrea.stanton@du.edu) & [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
 
 AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
