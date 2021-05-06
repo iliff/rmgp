@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# [The 2021 virtual meeting](https://iliff.github.io/rmgp/meeting_2021) was held March 20, 2021, hosted by UCCS. We look forward to returning to an in-person meeting in 2022, hosted by the University of Denver.
+# The University of Denver will host the 2022 regional meeting March 25-26. More information will post to this website as it becomes available.
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
@@ -16,7 +16,7 @@ Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 
 President: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
-Vice President and Program Chair: [Andrea Stanton](mailto:andrea.stanton@du.edu), University of Denver
+Co-Vice Presidents and Program Chairs: [Andrea Stanton](mailto:andrea.stanton@du.edu) and [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
 
 AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
