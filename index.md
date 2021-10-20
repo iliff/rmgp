@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# The University of Denver will host the 2022 regional meeting March 25-26. More information will post to this website as it becomes available.
+# The University of Denver will host the 2022 regional meeting March 25-26, and the call for proposals is now open!
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
