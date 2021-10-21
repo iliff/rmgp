@@ -16,7 +16,7 @@ Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 
 President: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
 
-Co-Vice Presidents and Program Chairs: [Andrea Stanton](mailto:andrea.stanton@du.edu) & [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
+Co-Vice Presidents and Program Chairs: [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu) and [Lynn Schofield Clark](mailto:lynn.clark@du.edu), University of Denver
 
 AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
@@ -38,9 +38,9 @@ Pamela Eisenbaum, Iliff School of Theology (2016-2017)
 
 Ronald A. Simkins, Creighton University (2015-2016)
 
-Andrea Stanton & Gregory Robbins, University of Denver (2014-2015)
+Andrea Stanton and Gregory Robbins, University of Denver (2014-2015)
 
-Richard S. Hess & Sung Wook Chung, Denver Seminary (2013-2014)
+Richard S. Hess and Sung Wook Chung, Denver Seminary (2013-2014)
 
 Dan Belnap, Brigham Young University (2012-2013)
 
