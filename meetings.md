@@ -6,7 +6,7 @@ layout: default
 
 ## [Meeting 2022 Information](https://iliff.github.io/rmgp/meeting_2022.html)
 
-**The University of Denver will host the regional meeting in person March 25-26, 2022. Arrangements and call for papers are forthcoming.**
+**The University of Denver will host the regional meeting in person March 25-26, 2022. Registration and hotel reservation are now open.**
 
 Hashtag note: Please use **#rmgp22** when you talk about this conference on social media. 
 
