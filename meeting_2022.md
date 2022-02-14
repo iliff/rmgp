@@ -1,6 +1,6 @@
 ## The 2022 RMGP Regional Meeting will be held in person March 25-26 at the University of Denver.
 
-See the Call for Submissions (closed) here.
+See the [Call for Submissions (closed) here.](https://iliff.github.io/rmgp/2022cfp.md)
 
 ## [Find the conference program here!](https://iliff.github.io/rmgp/Draft_Prog_2022.pdf)
 
