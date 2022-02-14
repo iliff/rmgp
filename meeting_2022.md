@@ -1,62 +1,18 @@
 ## The 2022 RMGP Regional Meeting will be held in person March 25-26 at the University of Denver.
 
-# Call for Submissions:
-The Regional Program Committee invites proposals for panels and papers to be presented at the 2022 Rocky Mountains-Great Plains Regional Meeting of the AAR and SBL, which will be held at the University of Denver in Denver, CO, Friday-Saturday March 25-26. The deadline for submissions is **Monday, November 8.**
+See the Call for Submissions (closed) here.
 
-We welcome proposals dealing with any aspect of the fields of religious studies and biblical studies. We seek proposals on all topics pertaining to religious traditions, beliefs or practices; historical periods; and biblical texts and their traditions. We welcome proposals for panels of multiple papers, and also accept proposals for single papers or other types of sessions, such as roundtables and book panels involving structured discussions of pre-circulated questions.
+## [Find the conference program here!](https://iliff.github.io/rmgp/Draft_Prog_2022.pdf)
 
-#### Proposal Requirements:
-All proposals should follow the instructions listed below. Proposals should be submitted [via Qualtrics here.](https://udenver.qualtrics.com/jfe/form/SV_1B8pwdwwImjLN9I)
+All conference events will take place in Sturm Hall (2000 E. Asbury Ave, Denver, CO 80208) at the University of Denver. The reception will take place in the neighboring Community Commons. A [campus map is available here.](https://www.du.edu/media/documents/maps/map-campus.pdf)
+The conference will run 8:00am-4:30pm both Friday, March 25, and Saturday, March 26. Conference registration and name badge pickup will be available from 7:30am-4:00pm on both days. On Friday, we will have a reception for all conference participants directly following the keynote, and on Saturday we will follow our lunch plenary session with a documentary film screening and panel discussion.
 
-Please make sure to include the following information in each proposal. Respondents for panels do not need to fill out a title or abstract but should be noted as “Respondents”.
+## Registration
+All presenters and attendees must register to attend the conference [through this link.](http://dughost.imodules.com/aarsbl) Registration fees are $50 for full-time faculty (tenured, tenure-track, non-tenure-line full time, and emeritus), $10 for students and contingent faculty, and $20 for guests. All presenters are asked to have a valid AAR or SBL membership. Lunches Friday and Saturday, plus the Friday reception, are included in the registration.
 
-###### Panel Proposals
-1) tentative title
-2) panel organizer name
-3) panel organizer institutional affiliation
-4) panel organizer email address/es
-5) panel abstract (300 words maximum) that discusses the subject matter and significance of the session
-6) presenters’ names
-7) presenters’ institutional affiliations
-8) presenters’ email addresses
-9) presenters’ individual abstracts (300 words maximum each), each discussing the subject matter and methodology of the paper, as well as the significance of the subject within the broader field of interest
-10) Whether the paper is a candidate for the SBL Regional Scholars Award (details below)
-11) technology needed
+## Lodging
+The conference hotel is Courtyard by Marriot Denver Cherry Creek, approximately 2 miles from the venue (Sturm Hall). **You must reserve your hotel room by February 22 to receive the discounted rate** of $99/night. [Use this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1633971384285&key=GRP&app=resvlink) to receive the discounted rate.
 
-###### Individual Paper Proposals
-1) tentative title
-2) presenter name/s
-3) presenter/s institutional affiliation/s
-4) presenter/s email address/es
-5) abstract (300 words maximum) that discusses the subject matter and methodology of the paper, as well as the significance of the subject within the broader field of interest
-6) Whether the paper is a candidate for the SBL Regional Scholars Award (details below)
-7) technology needed
+## Travel
+Denver International Airport is the nearest airport to DU (approximately 30-40 minutes away). All conference events will take place in Sturm Hall located at 2000 E. Asbury Ave, Denver, CO 80208. There will be signage in the building along with greeters to direct you. Parking is available in the parking garage on High Street for $10 per day. Please indicate whether you need parking on your conference registration.
 
-###### Roundtables, Book Panels, and Other Sessions
-1) tentative title
-2) session organizer name
-3) session organizer institutional affiliation
-4) session organizer email address/es
-5) session abstract (300 words maximum) that describes the format, subject matter, and significance of the session
-6) technology needed
-
-###### Undergraduate Student Panel
-To foster undergraduate involvement in the 2022 Regional Meeting there will be one undergraduate student panel. Undergraduates who would like to submit an abstract for this session should follow the Individual Paper Proposals guidelines outlined above and note in the abstract section that they are submitting for the undergraduate session. Please also include the name and email address of a faculty member from the student’s institution who is familiar with the student’s work.
-
-#### SBL Regional Scholars Award
-The SBL offers a Regional Scholars award for an outstanding paper presented at the regional meeting by a Ph.D. candidate or recent Ph.D. (four years or fewer) who is a member of the SBL. After the meeting, the Rocky Mountain/Great Plains Regional conference committee recommends one scholar based on [criteria outlined here](https://www.sbl-site.org/assets/pdfs/Meetings/RSAProgramPolicy2018.pdf) to the national SBL. Award winners will be notified by a representative from the SBL Regional Scholar Award Selection Committee no later than August 31, 2022. Qualified individuals interested in competing in the Regional Scholars competition must indicate this in the submission process above.
-
-#### AAR/SBL Graduate Student Paper Awards
-The AAR and SBL offer awards for the best graduate student papers. The awards are presented during lunch on Saturday and carry a stipend of $100 each. Students interested in competing for one of the awards must follow the instructions for submission and indicate they are interested in being considered for the award. Papers not chosen for an award will be considered for the program.
-
-Students will be notified of the opportunity to compete for these awards with notification of acceptance on the 2022 program. In order to be considered, students accepted into the conference must email the conference paper (the length of a 20-minute presentation, i.e., 10 pages double-spaced) to [dheepa.sundaram@du.edu](mailto:dheepa.sundaram@du.edu) no later than January 1, 2022. Students will then submit the following via email to [dheepa.sundaram@du.edu](mailto:dheepa.sundaram@du.edu) by February 1, 2022:
-
-1) Proof of active membership in the relevant organization
-2) An abstract (250 words maximum) for the paper
-3) A copy of an article-length paper (15-20 pages double-spaced, 12 point font)
-
-### Covid Protocols
-The University of Denver follows state and local guidelines for COVID-19. Please [look over this document](https://www.du.edu/sites/default/files/2021-08/DU%20COVID%20Protocol%20Visitors_%208_12_2021.pdf) for visitor entry to campus. When conference participants register for the conference, specific requirements will be provided. All conference participants must comply with University of Denver requirements for campus access.
-
-### Virtual Options
-Keynote lectures will be accessible online as well as in person. However, at this time, we cannot accept hybrid panel proposals (e.g., panels in which some presenters present virtually and some present in person). Presenters will be able to record presentations if they cannot attend in person. We are also working on making virtual panel options available.
