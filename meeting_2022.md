@@ -16,3 +16,5 @@ The conference hotel is Courtyard by Marriot Denver Cherry Creek, approximately 
 ## Travel
 Denver International Airport is the nearest airport to DU (approximately 30-40 minutes away). All conference events will take place in Sturm Hall located at 2000 E. Asbury Ave, Denver, CO 80208. There will be signage in the building along with greeters to direct you. Parking is available in the parking garage on High Street for $10 per day. Please indicate whether you need parking on your conference registration.
 
+## Important COVID Note
+As of now we have confirmed that the conference can go ahead in person per DU COVID protocols. Non-DU students, staff, and faculty and those not cleared for campus access must follow DU Visitor [COVID protocols outlined here.](https://www.du.edu/sites/default/files/2020-06/DU%20COVID%20Protocol%20Visitors.pdf) **All participants must [fill out this visitor survey](https://udenver.qualtrics.com/jfe/form/SV_enSBAuHEshClOap) for access to conference events.** Not completing this survey could delay or prevent conference access.
