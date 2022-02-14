@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# The University of Denver will host the 2022 regional meeting March 25-26, and the [call for proposals](https://iliff.github.io/rmgp/meeting_2022) is now open!
+# The University of Denver will host the 2022 regional meeting March 25-26. [Registration and hotel reservation (by Feb. 22)](https://iliff.github.io/rmgp/meeting_2022) are now open!
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
 ### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
