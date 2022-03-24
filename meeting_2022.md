@@ -2,7 +2,7 @@
 
 See the [Call for Submissions (closed) here.](https://iliff.github.io/rmgp/2022cfp.md)
 
-## [Find the conference program here!](https://iliff.github.io/rmgp/Draft_Prog_2022.pdf)
+## [Find the conference program here!](https://iliff.github.io/rmgp/program_2022.pdf)
 
 All conference events will take place in Sturm Hall (2000 E. Asbury Ave, Denver, CO 80208) at the University of Denver. The reception will take place in the neighboring Community Commons. A [campus map is available here.](https://www.du.edu/media/documents/maps/map-campus.pdf)
 The conference will run 8:00am-4:30pm both Friday, March 25, and Saturday, March 26. Conference registration and name badge pickup will be available from 7:30am-4:00pm on both days. On Friday, we will have a reception for all conference participants directly following the keynote, and on Saturday we will follow our lunch plenary session with a documentary film screening and panel discussion.
