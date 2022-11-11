@@ -3,7 +3,7 @@
 
 # Regis University will host the 2023 Regional Meeting March 24-25. [Find the CfP, due November 28, here!](https://iliff.github.io/rmgp/RMGP2023CFP.docx)
 
-The Rocky Mountains-Great Plains region was formerly a region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regions and withdrew financial support from regional organization. The RMGP remains as a region of the AAR and invites scholars of all fields of religion and religious textual studies (including biblical studies) to our meeting regardless of organizational affiliation.
+The Rocky Mountains-Great Plains region was formerly a region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regions and withdrew financial support from regional organizations. The RMGP remains a region of the AAR and invites scholars of all fields of religion and religious textual studies (including biblical studies) to our regional meeting regardless of organizational affiliation.
 
 ## Participating Area
 
@@ -83,7 +83,7 @@ Student Representatives serve the regional and national organization of AAR. As 
 
 Student Representatives have a waived registration fee for the regional meeting. They should contact the meeting organizer as soon as possible when registration opens to arrange this.
 Student Representatives are required to pursue funding from the university with which they are affiliated before they submit requests to the region. If no such funding is available, student representatives should indicate this when requesting financial support.
-Student Representatives may submit costs for hotel rooms, airfare, and food. The region requires that reimbursements for hotel rooms will be made at the AAR/SBL rate that is published by the national organizations for the annual meetings, that airfare must be coach/economy, and food will not be reimbursed higher than the annual federal per diem rates. The same requirements will apply to the regional meeting. Financial support is capped at $500 for each student representative for an academic year (one national and one regional meeting).
+Student Representatives may submit costs for hotel rooms, airfare, and food. The region requires that reimbursements for hotel rooms will be made at the AAR rate that is published by the national organization for the annual meetings, that airfare must be coach/economy, and food will not be reimbursed higher than the annual federal per diem rates. The same requirements will apply to the regional meeting. Financial support is capped at $500 for each student representative for an academic year (one national and one regional meeting).
 To receive financial support, student representatives must submit (1) itemized receipts for all costs for which they are requesting reimbursement and (2) a list of funding resources for which they have applied at their home universities (or a statement that no such funding is available) within 60 days of each meeting.
 Student Representatives are expected to make every reasonable effort to be present to report on their activities at the Regional Business Meeting (scheduled each Spring at the regional meeting). 
 Please contact the [current president](https://iliff.github.io/rmgp/#regional-officers) for more information.
