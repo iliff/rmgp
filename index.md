@@ -1,9 +1,9 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# Regis University will host the 2023 Regional Meeting March 24-25. [Find the CfP, due November 28, here!](https://iliff.github.io/rmgp/meeting_2022)
+# Regis University will host the 2023 Regional Meeting March 24-25. [Find the CfP, due November 28, here!](https://iliff.github.io/rmgp/RMGP2023CFP.docx)
 
-### American Academy of Religion, [National Website](http://www.aarweb.org)
+The Rocky Mountains-Great Plains region was formerly a region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regions and withdrew financial support from regional organization. The RMGP remains as a region of the AAR and invites scholars of all fields of religion and religious textual studies (including biblical studies) to our meeting regardless of organizational affiliation.
 
 ## Participating Area
 
@@ -13,17 +13,19 @@ Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansa
 
 ## Regional Officers
 
-President: [Jeffrey Scholes](mailto:jscholes@uccs.edu), University of Colorado Colorado Springs
+President: [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
 
-Co-Vice Presidents and Program Chairs: [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu) and [Lynn Schofield Clark](mailto:lynn.clark@du.edu), University of Denver
+Vice President and Program Chair: [Amy Balogh](mailto:abalogh@regis.edu), Regis University
 
-AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
+Secretary and Treasurer: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
-SBL Coordinator: [Amy L. Balogh](mailto:abalogh@regis.edu), Regis University
+AAR Coordinator: Jeremy Fricke, Tri-Faith
 
 AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
 
 ## Past Presidents
+
+Jeffrey Scholes, University of Colorado Colorado Springs (2021-2022)
 
 Ronald A. Simkins, Creighton University (2019-2020, 2020-2021)
 
