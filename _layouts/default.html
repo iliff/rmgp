@@ -18,16 +18,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-          {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
  
         <p><a href="{{ "/" | absolute_url }}meetings.html"> Regional Meetings </a></p>
         <p><a href="{{ "/" | absolute_url }}#participating-area"> Participating Schools and Universities </a></p>
         <p><a href="{{ "/" | absolute_url }}#regional-officers"> Regional Officers </a></p>
-        <p><a href="{{ "/" | absolute_url }}#regional-scholars-program"> Regional Scholars Program </a></p>
-        <p><a href="{{ "/" | absolute_url }}#student-representatives"> Student Representatives </a></p>
-        <p><a href="{{ "/" | absolute_url }}#regions-forum-2018"> Regions Forum 2018 Links</a></p>
       
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
