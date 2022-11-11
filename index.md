@@ -1,10 +1,9 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# The University of Denver will host the 2022 regional meeting March 25-26. [Registration and hotel reservation (by Feb. 22)](https://iliff.github.io/rmgp/meeting_2022) are now open!
+# Regis University will host the 2023 Regional Meeting March 24-25. [Find the CfP, due November 28, here!](https://iliff.github.io/rmgp/meeting_2022)
 
 ### American Academy of Religion, [National Website](http://www.aarweb.org)
-### Society of Biblical Literature, [National Website](http://www.sbl-site.org)
 
 ## Participating Area
 
@@ -23,8 +22,6 @@ AAR Coordinator: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creight
 SBL Coordinator: [Amy L. Balogh](mailto:abalogh@regis.edu), Regis University
 
 AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
-
-SBL Student Director: Vacant
 
 ## Past Presidents
 
@@ -74,33 +71,13 @@ Ronald A. Simkins, Creighton University (1998-1999)
 
 Harris Lenowitz, University of Utah (1997-1998)
 
-## Regional Scholars Program
-
-The Regional Scholar’s award is a program developed by the Society of Biblical Literature’s Council of Regional Coordinators to recognize and promote promising entry-level scholars in the field of biblical studies. Its objective is to encourage their intellectual and professional development and to lend practical assistance by providing venues in which to present their work at the Society’s Regional and Annual Meetings. To qualify for the SBL Regional Scholars Program scholars should be at least ABD and no more than four years past the receipt of their Ph.D (at the time of application), and present a paper at a Regional Meeting of the Society.
-
-Each Region of the Society of Biblical Literature may select one candidate for the Regional Scholar award. When evaluating candidates’ paper submissions, the criteria to be considered will include (where appropriate):
-
-1. knowledge of scholarly resources and publications;
-2. knowledge of the relevant languages;
-3. knowledge of the primary sources;
-4. ability to think critically;
-5. ability to use scholarship critically by following the argument and evaluating its foundations and the validity of the reasoning;
-6. clarity of writing style; and
-7. originality of fresh ideas without far-fetched speculation.
-
-If no applicant satisfies the committee’s expectations, then no Regional Scholar candidate will be selected. Regional nominations for the RS award are reviewed by a National Selection Committee of the Council for Regional Coordinators who make the final selection. Regional Scholars, once chosen, may under the auspices of the program choose a mentor to provide advice concerning their paper in preparation for the Annual Meeting and/or for publication. Officers of the regions from which the Regional Scholars are chosen will assist with extending an invitation to a mentor, if necessary.
-
-In addition to the recognition and honor of being a Regional Scholar, each scholar will receive an award in the amount of $1000.00 to facilitate attendance at the Annual Meeting.
-
 ## Student Representatives
 
-Both AAR and SBL have regional student positions that address the needs and concerns of graduate students and promotes their professional development and participation in our regional organization:
+The AAR has a regional student position that addresses the needs and concerns of graduate students and promotes their professional development and participation in our regional organization:
 
 [AAR Graduate Student Committee](https://www.aarweb.org/node/108)
 
-[SBL Student Advisory Board](https://www.sbl-site.org/SBLcommittees_SAB.aspx)
-
-Student Representatives serve the regional and national organizations of AAR and SBL. As such, the region would like to offer their financial support:
+Student Representatives serve the regional and national organization of AAR. As such, the region would like to offer their financial support:
 
 Student Representatives have a waived registration fee for the regional meeting. They should contact the meeting organizer as soon as possible when registration opens to arrange this.
 Student Representatives are required to pursue funding from the university with which they are affiliated before they submit requests to the region. If no such funding is available, student representatives should indicate this when requesting financial support.
