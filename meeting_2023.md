@@ -1,6 +1,6 @@
 ## Regis University will host the 2023 Regional Meeting on March 24-25, 2023, in Denver, CO
 
-[Click here for the CfP, due Nov. 28, 2022!](https://iliff.github.io/rmgp/RMGP2023CFP.docx)
+[Click here for the CfP, due Nov. 28, 2022!](https://iliff.github.com/rmgp/RMGP2023CFP.docx)
 
 Hotel and registration links forthcoming.
 
