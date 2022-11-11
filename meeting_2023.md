@@ -1,6 +1,6 @@
 ## Regis University will host the 2023 Regional Meeting on March 24-25, 2023, in Denver, CO
 
-Click here for the CfP, due Nov. 28, 2022!
+[Click here for the CfP, due Nov. 28, 2022!]()
 
 Hotel and registration links forthcoming.
 
