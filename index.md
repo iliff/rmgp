@@ -3,15 +3,13 @@
 
 # Regis University will host the 2023 Regional Meeting March 24-25. [Find the CfP, due November 28, here!](https://iliff.github.io/rmgp/RMGP2023CFP.docx)
 
-The Rocky Mountains-Great Plains region was formerly a region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regions and withdrew financial support from regional organizations. The RMGP remains a region of the AAR and invites scholars of all fields of religion and religious textual studies (including biblical studies) to our regional meeting regardless of organizational affiliation.
+The Religion and Bible Society of the Rocky Mountain-Great Plains Region was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regions and withdrew financial support from regional organizations, so the new RBS-RMGPR was incorporated November 2, 2022, in the state of Colorado to serve the same functions as the old AAR/SBL regions (the RMGP remains a region of the AAR, with leadership coterminous with the RBS-RMGPR). We invite scholars of all fields of religion and religious textual studies (including biblical studies) to our regional meetings, regardless of organizational affiliation, institutional affiliation or status, or geographic location.
 
 ## Participating Area
 
-![left-aligned-image](region-rg.gif)
+Our region primarily, though not exclusively, serves individuals and institutions in Colorado, Nebraska, New Mexico, Utah, Wyoming, and Kansas. Historically, independent scholars and members of the American Academy of Religion (AAR), American Society of Overseas Research (ASOR), and Society of Biblical Literature (SBL) professional organizations have served as the heart of regional involvement, include in meeting attendance and presentation and in organizational leadership. Hosting institutions have included Brigham Young University (UT), Colorado College (CO), Creighton University (NE), Denver Seminary (CO), Iliff School of Theology (CO), Regis University (CO), University of Colorado Boulder (CO), University of Colorado Colorado Springs (CO), University of Denver (CO), and University of Utah (UT); leadership has also come from the Tri-Faith Initiative (NE) and University of Science and Arts of Oklahoma (OK).
 
-Our region includes Colorado, Nebraska, New Mexico, Utah, Wyoming, western Kansas (67400-67999), and eastern Montana (59000-59399, 59500-59599).
-
-## Regional Officers
+## RBS-RMGPR and AAR-RMGP Officers
 
 President: [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
 
@@ -19,11 +17,13 @@ Vice President and Program Chair: [Amy Balogh](mailto:abalogh@regis.edu), Regis 
 
 Secretary and Treasurer: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
-AAR Coordinator: Jeremy Fricke, Tri-Faith
+### AAR-RMGP Officers
+
+AAR Coordinator: Jeremy Fricke, Tri-Faith Initiative
 
 AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
 
-## Past Presidents
+## Past AAR/SBL Regional Presidents
 
 Jeffrey Scholes, University of Colorado Colorado Springs (2021-2022)
 
@@ -59,7 +59,7 @@ Carl A. Raschke, Denver University (2005-2006)
 
 Thomas A. Wayment, Brigham Young University (2004-2005)
 
-Lynn Ross Bryant, University of Colorado, Boulder (2003-2004)
+Lynn Ross Bryant, University of Colorado Boulder (2003-2004)
 
 John O'Keefe, Creighton University (2002-2003)
 
