@@ -93,22 +93,6 @@ To receive financial support, student representatives must submit (1) itemized r
 Student Representatives are expected to make every reasonable effort to be present to report on their activities at the Regional Business Meeting (scheduled each Spring at the regional meeting). 
 Please contact the [current president](https://iliff.github.io/rmgp/#regional-officers) for more information.
 
-## Regions Forum 2018
-
-These links are the ones Elizabeth Coody referenced at the Regions Forum at the 2018 AAR/SBL Annual Meeting in Denver, Colorado where regional coordinators, officers, and representatives shared and discussed regional meeting innovations.
-
-Katherine Downey, Dallas, TX, Presiding
-Sunday, November 18, 2018 - 1:00 PM-3:00 PM
-Convention Center-604 (Street Level)
-
-#### Digital Humanities: Virtual Reality, Natural Language Processing, Machine Learning, and Artificial Intelligence
-
-[Virtual Scriptures](http://www.virtualscriptures.org)
-
-[A Century of Black Mormons](http://www.centuryofblackmormons.org)
-
-[Experimental Humanities](https://www.iliff.edu/experimental-humanities/)
-
-This rmgp.org website was created by Elizabeth Coody (2016-19 AAR Regional Coordinator for the RMGP) and is maintained by Zachary B. Smith, AAR Regional Coordinator for the RMGP Region. If you have questions, additions, or corrections to the website, please [contact me](mailto:zacharybsmith@creighton.edu).
+This rmgp.org website was created by Elizabeth Coody (2016-19 AAR Regional Coordinator for the RMGP) and is maintained by Zachary B. Smith. If you have questions, additions, or corrections to the website, please [contact me](mailto:zacharybsmith@creighton.edu).
         
 ![center-aligned-image](rmgp_featured_footer.png)
