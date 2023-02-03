@@ -7,9 +7,13 @@ The Religion & Bible Society of the Rocky Mountain-Great Plains Region (RBS-RMGP
 The Religion & Bible Society was incorporated November 3, 2022, in the state of Colorado and was granted federal 501(c)3 status December 16, 2022. At this time, it serves the same functions as the former AAR/SBL regions (AAR maintains its regional structure), with a slightly modified leadership structure that will allow the Religion & Bible Society to expand opportunities for scholars in the RMGP Region, especially its junior and student scholars.
 
 President & Founder: Amy L. Balogh, Regis University
+
 Vice President of Operations: Dheepa Sundaram, University of Denver
+
 Secretary & Treasurer: Zachary B. Smith, Creighton University
+
 Vice President of Programming: TBA
+
 Board Members: TBA
 
 ## Participating Area
