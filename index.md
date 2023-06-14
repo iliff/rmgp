@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# Regis University will host the 2023 Regional Meeting March 24-25. [Find program, registration, and hotel information here!](https://iliff.github.io/rmgp/meeting_2023)
+# Thank you to Regis University for hosting the 2023 Regional Meeting.
 
 The Religion & Bible Society of the Rocky Mountain-Great Plains Region (RBS-RMGPR) was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regional structure and withdrew financial support from regional organizations. However, those of us in RMGP remain committed to our region, the scholarship we do, and the important professional development opportunity that the RMGP Regional Meeting has become.
 The Religion & Bible Society was incorporated November 3, 2022, in the state of Colorado and was granted federal 501(c)3 status December 16, 2022. At this time, it serves the same functions as the former AAR/SBL regions (AAR maintains its regional structure), with a slightly modified leadership structure that will allow the Religion & Bible Society to expand opportunities for scholars in the RMGP Region, especially its junior and student scholars.
@@ -15,6 +15,16 @@ Secretary & Treasurer: Zachary B. Smith, Creighton University
 Vice President of Programming: TBA
 
 Board Members: TBA
+
+## Future Meetings:
+
+March 22-23, 2024 - Brigham Young University, Provo UT
+
+April 4-5, 2025 - Denver Seminary, Denver CO
+
+2026 - Host TBA
+
+2027 - University of Colorado - Colorado Springs, Colorado Springs CO
 
 ## Participating Area
 
