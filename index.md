@@ -32,9 +32,7 @@ Our region primarily, though not exclusively, serves individuals and institution
 
 ## AAR-RMGP Officers
 
-President: [Dheepa Sundaram](mailto:dheepa.sundaram@du.edu), University of Denver
-
-Vice President and Program Chair: [Amy Balogh](mailto:abalogh@regis.edu), Regis University
+President: [Amy Balogh](mailto:abalogh@regis.edu), Regis University
 
 Secretary and Treasurer: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
 
@@ -43,6 +41,8 @@ AAR Coordinator: Jeremy Fricke, Tri-Faith Initiative
 AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
 
 ## Past AAR/SBL Regional Presidents
+
+Dheepa Sundaram, University of Denver (2022-2023)
 
 Jeffrey Scholes, University of Colorado Colorado Springs (2021-2022)
 
