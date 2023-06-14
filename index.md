@@ -12,7 +12,7 @@ Vice President: Dheepa Sundaram, University of Denver
 
 Secretary & Treasurer: Zachary B. Smith, Creighton University
 
-Conference Coordinators: Lincoln Blumbell and George Pierce, Brigham Young University
+Conference Coordinators: Lincoln Blumell and George Pierce, Brigham Young University
 
 Board Members: George Pierce (Brigham Young Univ.), Zachary Simpson (Univ. of Science and Arts of Oklahoma), Andrea Stanton (Univ. of Denver), Michelle Stinson (Denver Seminary)
 
