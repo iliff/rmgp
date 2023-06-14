@@ -8,13 +8,13 @@ The Religion & Bible Society was incorporated November 3, 2022, in the state of 
 
 President & Founder: Amy L. Balogh, Regis University
 
-Vice President of Operations: Dheepa Sundaram, University of Denver
+Vice President: Dheepa Sundaram, University of Denver
 
 Secretary & Treasurer: Zachary B. Smith, Creighton University
 
-Vice President of Programming: TBA
+Conference Coordinators: Lincoln Blumbell and George Pierce, Brigham Young University
 
-Board Members: TBA
+Board Members: George Pierce (Brigham Young Univ.), Zachary Simpson (Univ. of Science and Arts of Oklahoma), Andrea Stanton (Univ. of Denver), Michelle Stinson (Denver Seminary)
 
 ## Future Meetings:
 
