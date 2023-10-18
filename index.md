@@ -87,7 +87,7 @@ Ronald A. Simkins, Creighton University (1998-1999)
 
 Harris Lenowitz, University of Utah (1997-1998)
 
-## Student Representatives
+## AAR Student Representatives
 
 The AAR has a regional student position that addresses the needs and concerns of graduate students and promotes their professional development and participation in our regional organization:
 
@@ -101,7 +101,4 @@ Student Representatives may submit costs for hotel rooms, airfare, and food. The
 To receive financial support, student representatives must submit (1) itemized receipts for all costs for which they are requesting reimbursement and (2) a list of funding resources for which they have applied at their home universities (or a statement that no such funding is available) within 60 days of each meeting.
 Student Representatives are expected to make every reasonable effort to be present to report on their activities at the Regional Business Meeting (scheduled each Spring at the regional meeting). 
 Please contact the [current president](https://iliff.github.io/rmgp/#regional-officers) for more information.
-
-This rmgp.org website was created by Elizabeth Coody (2016-19 AAR Regional Coordinator for the RMGP) and is maintained by Zachary B. Smith. If you have questions, additions, or corrections to the website, please [contact me](mailto:zacharybsmith@creighton.edu).
-        
 ![center-aligned-image](rmgp_featured_footer.png)
