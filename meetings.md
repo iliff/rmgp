@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Regional Meeting 2023
+# Regional Meeting 2024
 
-## [Meeting 2023 Information](https://iliff.github.io/rmgp/meeting_2023.html)
-
-**Regis University will host the regional meeting March 24-25, 2023. Registration and hotel reservations forthcoming.**
+**Brigham Young University will host the regional meeting March 22-23, 2024. Registration and hotel reservations forthcoming.**
 
 
 ## Past Meetings: 
