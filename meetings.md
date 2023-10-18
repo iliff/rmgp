@@ -11,6 +11,8 @@ layout: default
 
 ## Past Meetings: 
 
+[2023 Meeting Information](https://www.dropbox.com/scl/fi/8r1b4zxqx2b1mratjey4z/RMGP-2023-Academic-Program.pdf?rlkey=8xm59b5zfnngns6x30aq1r8uu&dl=0)
+
 [2022 Meeting Information](https://iliff.github.io/rmgp/meeting_2022.html)
 
 [2021 Virtual Meeting Information](https://iliff.github.io/rmgp/meeting_2021.html)
