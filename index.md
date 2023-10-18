@@ -1,20 +1,21 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# Thank you to Regis University for hosting the 2023 Regional Meeting.
+# The 2024 RMGP Regional Meeting will be hosted by Brigham Young University (Provo, UT), March 22-23, 2024! 
+[Click here]([url](https://www.dropbox.com/scl/fi/hxba9c0rw38hxasciw6kr/AAR-RBS-RMGP-CFP-2024.pdf?rlkey=w377frfxseqdpf358ndzn28vn&dl=0)) for the Call for Proposals (due Nov. 27, 2023).
 
-The Religion & Bible Society of the Rocky Mountain-Great Plains Region (RBS-RMGPR) was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regional structure and withdrew financial support from regional organizations. However, those of us in RMGP remain committed to our region, the scholarship we do, and the important professional development opportunity that the RMGP Regional Meeting has become.
+The Religion & Bible Society of the Rocky Mountain Great Plains Region (RBS) was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the Society of Biblical Literature. In 2022, the SBL abolished their regional structure and withdrew financial support from regional organizations. However, those of us in RMGP remain committed to our region, the scholarship we do, and the important professional development opportunity that the RMGP Regional Meeting has become.
 The Religion & Bible Society was incorporated November 3, 2022, in the state of Colorado and was granted federal 501(c)3 status December 16, 2022. At this time, it serves the same functions as the former AAR/SBL regions (AAR maintains its regional structure), with a slightly modified leadership structure that will allow the Religion & Bible Society to expand opportunities for scholars in the RMGP Region, especially its junior and student scholars.
 
-President & Founder: Amy L. Balogh, Regis University
+President: Amy L. Balogh, Regis University
 
 Vice President: Dheepa Sundaram, University of Denver
 
-Secretary & Treasurer: Zachary B. Smith, Creighton University
+Interim Secretary & Treasurer: Zachary Simpson, University of Science & Arts of Oklahoma
 
-Conference Coordinators: Lincoln Blumell and George Pierce, Brigham Young University
+Conference Coordinator: George Pierce, Brigham Young University
 
-Board Members: George Pierce (Brigham Young Univ.), Zachary Simpson (Univ. of Science and Arts of Oklahoma), Andrea Stanton (Univ. of Denver), Michelle Stinson (Denver Seminary)
+RBS Board Members: George Pierce (Brigham Young Univ.), Zachary Simpson (Univ. of Science and Arts of Oklahoma), Andrea Stanton (Univ. of Denver), Michelle Stinson (Denver Seminary)
 
 ## Future Meetings:
 
@@ -34,7 +35,7 @@ Our region primarily, though not exclusively, serves individuals and institution
 
 President: [Amy Balogh](mailto:abalogh@regis.edu), Regis University
 
-Secretary and Treasurer: [Zachary B. Smith](mailto:zacharybsmith@creighton.edu), Creighton University
+Interim Secretary & Treasurer: Zachary Simpson, University of Science & Arts of Oklahoma
 
 AAR Coordinator: Jeremy Fricke, Tri-Faith Initiative
 
