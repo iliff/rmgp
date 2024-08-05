@@ -7,9 +7,7 @@
 The Religion & Bible Society of the Rocky Mountain Great Plains Region (RBS) was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the [Society of Biblical Literature](https://www.sbl-site.org). In 2022, the SBL abolished their regional structure and withdrew financial support from regional organizations. However, those of us in RMGP remain committed to our region, the scholarship we do, and the important professional development opportunity that the RMGP Regional Meeting has become.
 The Religion & Bible Society was incorporated November 3, 2022, in the state of Colorado and was granted federal 501(c)3 status December 16, 2022. At this time, it serves the same functions as the former AAR/SBL regions (AAR maintains its regional structure), with a slightly modified leadership structure that will allow the Religion & Bible Society to expand opportunities for scholars in the RMGP Region, especially its junior and student scholars.
 
-President: Amy L. Balogh, Regis University
-
-Vice President: Dheepa Sundaram, University of Denver
+President: Dheepa Sundaram, University of Denver
 
 Interim Secretary & Treasurer: Zachary Simpson, University of Science & Arts of Oklahoma
 
@@ -36,6 +34,8 @@ April 4-5, 2025 - Denver Seminary, Denver CO
 Our region primarily, though not exclusively, serves individuals and institutions in Colorado, Nebraska, New Mexico, Utah, Wyoming, and Kansas. Historically, independent scholars and members of the American Academy of Religion (AAR), American Society of Overseas Research (ASOR), and Society of Biblical Literature (SBL) professional organizations have served as the heart of regional involvement, include in meeting attendance and presentation and in organizational leadership. Hosting institutions have included Brigham Young University (UT), Colorado College (CO), Creighton University (NE), Denver Seminary (CO), Iliff School of Theology (CO), Regis University (CO), University of Colorado Boulder (CO), University of Colorado Colorado Springs (CO), University of Denver (CO), and University of Utah (UT); leadership has also come from the Tri-Faith Initiative (NE) and University of Science and Arts of Oklahoma (OK).
 
 ## Past AAR/SBL Regional Presidents
+
+Amy L. Balogh, Regis University (2023-2024)
 
 Dheepa Sundaram, University of Denver (2022-2023)
 
