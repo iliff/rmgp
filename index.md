@@ -1,8 +1,8 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# The 2025 RMGP Regional Meeting will be hosted by the University of Denver in spring 2025! 
-Call for Proposals coming Fall 2024
+# The 2025 RMGP Regional Meeting will be hosted by the University of Denver, March 28-29, 2025
+Call for Proposals (see attached file)
 
 The Religion & Bible Society of the Rocky Mountain Great Plains Region (RBS) was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the [Society of Biblical Literature](https://www.sbl-site.org). In 2022, the SBL abolished their regional structure and withdrew financial support from regional organizations. However, those of us in RMGP remain committed to our region, the scholarship we do, and the important professional development opportunity that the RMGP Regional Meeting has become.
 The Religion & Bible Society was incorporated November 3, 2022, in the state of Colorado and was granted federal 501(c)3 status December 16, 2022. At this time, it serves the same functions as the former AAR/SBL regions (AAR maintains its regional structure), with a slightly modified leadership structure that will allow the Religion & Bible Society to expand opportunities for scholars in the RMGP Region, especially its junior and student scholars.
@@ -13,17 +13,15 @@ Vice President: Jeffrey Scholes, University of Colorado - Colorado Springs
 
 Interim Secretary & Treasurer: Zachary Simpson, University of Science & Arts of Oklahoma
 
-Conference Coordinator: TBA
+Conference Coordinator (2025): Dheepa Sundaram and Andrea Stanton, University of Denver
 
-RBS Board Members: George Pierce (Brigham Young Univ.), Zachary Simpson (Univ. of Science and Arts of Oklahoma), Andrea Stanton (Univ. of Denver), Michelle Stinson (Denver Seminary)
+RBS Board Members: Zachary Simpson (Univ. of Science and Arts of Oklahoma), Andrea Stanton (Univ. of Denver), Michelle Stinson (Denver Seminary)
 
-AAR Coordinator: Jeremy Fricke, Tri-Faith Initiative
+AAR Coordinator: Dheepa Sundaram, University of Denver
 
 AAR Student Director: Michael Laminack, University of Denver and Iliff School of Theology
 
 ## Future Meetings:
-
-Dates TBA, 2025 - University of Denver, Denver CO
 
 2026 - University of Colorado - Colorado Springs, Colorado Springs CO
 
