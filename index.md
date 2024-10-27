@@ -1,7 +1,7 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
-# The 2025 RMGP Regional Meeting will be hosted by the University of Denver, March 27-28, 2025
+# The 2025 RMGP Regional Meeting will be hosted by the University of Denver, March 28-29, 2025
 Call for Proposals: https://drive.google.com/file/d/1H_QcnPthGi8lpN1LUD36FZvEBHBR6DzH/view?usp=sharing
 
 The Religion & Bible Society of the Rocky Mountain Great Plains Region (RBS) was formerly the Rocky Mountain-Great Plains Region of both the [American Academy of Religion](http://aarweb.org) and the [Society of Biblical Literature](https://www.sbl-site.org). In 2022, the SBL abolished their regional structure and withdrew financial support from regional organizations. However, those of us in RMGP remain committed to our region, the scholarship we do, and the important professional development opportunity that the RMGP Regional Meeting has become.
