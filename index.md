@@ -91,10 +91,7 @@ The AAR has a regional student position that addresses the needs and concerns of
 
 Student Representatives serve the regional and national organization of AAR. As such, the region would like to offer their financial support:
 
-Student Representatives have a waived registration fee for the regional meeting. They should contact the meeting organizer as soon as possible when registration opens to arrange this.
-Student Representatives are required to pursue funding from the university with which they are affiliated before they submit requests to the region. If no such funding is available, student representatives should indicate this when requesting financial support.
-Student Representatives may submit costs for hotel rooms, airfare, and food. The region requires that reimbursements for hotel rooms will be made at the AAR rate that is published by the national organization for the annual meetings, that airfare must be coach/economy, and food will not be reimbursed higher than the annual federal per diem rates. The same requirements will apply to the regional meeting. Financial support is capped at $500 for each student representative for an academic year (one national and one regional meeting).
-To receive financial support, student representatives must submit (1) itemized receipts for all costs for which they are requesting reimbursement and (2) a list of funding resources for which they have applied at their home universities (or a statement that no such funding is available) within 60 days of each meeting.
-Student Representatives are expected to make every reasonable effort to be present to report on their activities at the Regional Business Meeting (scheduled each Spring at the regional meeting). 
+Student Representatives have a waived registration fee for the regional meeting. They should contact the meeting organizer as soon as possible when registration opens to arrange this. Student Representatives are required to pursue funding from the university with which they are affiliated before they submit requests to the region. If no such funding is available, student representatives should indicate this when requesting financial support which will be made available up to $500, subject to budgetary constraints.
+ 
 Please contact the [current president](https://iliff.github.io/rmgp/#regional-officers) for more information.
 ![center-aligned-image](rmgp_featured_footer.png)
