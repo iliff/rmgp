@@ -1,6 +1,14 @@
 
 ![center-aligned-image](rmgp_featured.png)
 
+# NEW WEBSITE and URL: www.rmgpregion.org 
+Please use the new website going forward as all updates for the 2025 RMGP Regional Meeting and the RMGP region will be posted there. 
+# Regional Contact Information: rmgpregion@gmail.com
+
+# www.rmgp.org will sunset on July 1, 2025. Please bookmark the above URL to stay in touch with the region.
+# Regional Listserv: Want to keep up with all RMGP regional news, regional meeting information, regional programming throughout the year? Please join our listserv! Sign up here: https://forms.gle/NwrsUrDhE3QUH2Vz9
+
+
 # The 2025 RMGP Regional Meeting will be hosted by the University of Denver, March 28-29, 2025
 Call for Proposals: https://drive.google.com/file/d/1H_QcnPthGi8lpN1LUD36FZvEBHBR6DzH/view?usp=sharing
 
